@@ -1,8 +1,5 @@
 #2
-dia = 18
-mês = "outubro"
-ano = 2007
-print(dia, mês, ano)
 dia = int(input("dia de nascimento:"))
-mês = int(input("dia de nascimento:"))
-ano = int(input("dia de nascimento:"))
+mes = int(input("mês de nascimento:"))
+ano = int(input("ano de nascimento:"))
+print(dia, mes, ano)
