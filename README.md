@@ -27,8 +27,6 @@ Resolução de desafios propostos em aula.
 - PyCharm
 - Git
 - GitHub
-- Google Colab
-- 
 
 ## Objetivo
 Desenvolver minha lógica de programação e construir portfólio acadêmico durante minha graduação em Ciência da Computação na FIAP.
